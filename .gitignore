@@ -1,0 +1,26 @@
+# Migrations and other cpython files
+
+/hostAPI/__pycache__
+/hostAPI/migrations
+
+
+# Application specific migrations
+/domain/migrations
+/domain/__pycache__
+
+/emailhosting/migrations
+/emailhosting/__pycache__
+
+/helpdesk/migrations
+/helpdesk/__pycache__
+
+/subscription/migrations
+/subscription/__pycache__
+
+/user/migrations
+/user/__pycache__
+
+/webhosting/migrations
+/webhosting/__pycache__
+
+/db.sqlite3
